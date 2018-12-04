@@ -14,3 +14,4 @@ while color != "":
         print("Invalid color name")
     color = input("Enter color name : ")
     color = color.upper()
+ 
