@@ -16,7 +16,7 @@ while state != "":
         print(state, "is", STATE_NAMES[state])
     elif state == "ALL":
         for state in STATE_NAMES:
-            print(state, "is", STATE_NAMES[state])
+            print("{0:<4} is {1}".format(state, STATE_NAMES[state]))
     else:
         print("Invalid short state")
     state = input("Enter short state: ")
