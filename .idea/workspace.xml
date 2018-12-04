@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37e1cc07-6104-4bf6-b9a5-69b951a073a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/prac_03/broken_score2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_03/capitalist_conrad2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_03/oddname2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_03/temperature2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_05/state_names.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_01/broken_score.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac_01/broken_score.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,18 +13,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CP1404Practicals$total_income.coverage" NAME="total_income Coverage Results" MODIFIED="1543283082263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
+    <SUITE FILE_PATH="coverage/CP1404Practicals$state_names.coverage" NAME="state_names Coverage Results" MODIFIED="1543888247058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_05" />
     <SUITE FILE_PATH="coverage/CP1404Practicals$password_checker.coverage" NAME="password_checker Coverage Results" MODIFIED="1542681146222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
     <SUITE FILE_PATH="coverage/CP1404Practicals$files.coverage" NAME="files Coverage Results" MODIFIED="1542074867481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
     <SUITE FILE_PATH="coverage/CP1404Practicals$capitalist_conrad.coverage" NAME="capitalist_conrad Coverage Results" MODIFIED="1542012517931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
+    <SUITE FILE_PATH="coverage/CP1404Practicals$warmup.coverage" NAME="warmup Coverage Results" MODIFIED="1543281113384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
     <SUITE FILE_PATH="coverage/CP1404Practicals$sales_bonus.coverage" NAME="sales_bonus Coverage Results" MODIFIED="1541815387748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />
+    <SUITE FILE_PATH="coverage/CP1404Practicals$intermediate_1.coverage" NAME="intermediate_1 Coverage Results" MODIFIED="1543284295060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
     <SUITE FILE_PATH="coverage/CP1404Practicals$exceptions_to_complete.coverage" NAME="exceptions_to_complete Coverage Results" MODIFIED="1542071950291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
     <SUITE FILE_PATH="coverage/CP1404Practicals$string_formatting_examples.coverage" NAME="string_formatting_examples Coverage Results" MODIFIED="1542072265158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
+    <SUITE FILE_PATH="coverage/CP1404Practicals$intermediate_2.coverage" NAME="intermediate_2 Coverage Results" MODIFIED="1543284717219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
     <SUITE FILE_PATH="coverage/CP1404Practicals$exceptions.coverage" NAME="exceptions Coverage Results" MODIFIED="1542071134331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
+    <SUITE FILE_PATH="coverage/CP1404Practicals$lottery_ticket_generator.coverage" NAME="lottery_ticket_generator Coverage Results" MODIFIED="1543291015144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
     <SUITE FILE_PATH="coverage/CP1404Practicals$hello.coverage" NAME="hello Coverage Results" MODIFIED="1541812147576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CP1404Practicals$online_test.coverage" NAME="online_test Coverage Results" MODIFIED="1541818774549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />
+    <SUITE FILE_PATH="coverage/CP1404Practicals$intermediate_3.coverage" NAME="intermediate_3 Coverage Results" MODIFIED="1543286823905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
     <SUITE FILE_PATH="coverage/CP1404Practicals$shop_calculator.coverage" NAME="shop_calculator Coverage Results" MODIFIED="1541821070169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />
     <SUITE FILE_PATH="coverage/CP1404Practicals$capitalist_conrad2.coverage" NAME="capitalist_conrad2 Coverage Results" MODIFIED="1542681186667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
-    <SUITE FILE_PATH="coverage/CP1404Practicals$broken_score.coverage" NAME="broken_score Coverage Results" MODIFIED="1541814384057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />
+    <SUITE FILE_PATH="coverage/CP1404Practicals$broken_score.coverage" NAME="broken_score Coverage Results" MODIFIED="1543886063488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />
     <SUITE FILE_PATH="coverage/CP1404Practicals$temperatures.coverage" NAME="temperatures Coverage Results" MODIFIED="1541814942369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />
     <SUITE FILE_PATH="coverage/CP1404Practicals$broken_score2.coverage" NAME="broken_score2 Coverage Results" MODIFIED="1542685428893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
     <SUITE FILE_PATH="coverage/CP1404Practicals$temperature2.coverage" NAME="temperature2 Coverage Results" MODIFIED="1542684766119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
@@ -37,85 +42,55 @@
     <session id="283079056">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.28" value="2" />
           <entry key="project.open.time.39" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="22" />
+          <entry key="py" value="30" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="22" />
+          <entry key="Python" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="3316" />
-          <entry key="txt" value="5" />
+          <entry key="py" value="4923" />
+          <entry key="txt" value="156" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="3316" />
+          <entry key="PLAIN_TEXT" value="156" />
+          <entry key="Python" value="4923" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.create.new" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac_03/capitalist_conrad2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac_03/oddname2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <marker date="1542684610175" expanded="true" signature="11:12" ph="..." />
-                <marker date="1542684610175" expanded="true" signature="31:36" ph="..." />
-                <marker date="1542684610175" expanded="true" signature="341:350" ph="..." />
-                <marker date="1542684610175" expanded="true" signature="341:413" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac_03/temperature2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/prac_03/broken_score2.py">
+        <entry file="file://$PROJECT_DIR$/prac_05/state_names.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
-              <folding>
-                <marker date="1542685485045" expanded="true" signature="107:109" ph="..." />
-                <marker date="1542685485045" expanded="true" signature="107:130" ph="..." />
-              </folding>
+            <state relative-caret-position="253">
+              <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -131,12 +106,16 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/hello.py" />
-        <option value="$PROJECT_DIR$/prac_01/broken_score.py" />
         <option value="$PROJECT_DIR$/prac_01/temperatures.py" />
         <option value="$PROJECT_DIR$/prac_01/loops.py" />
         <option value="$PROJECT_DIR$/prac_01/sales_bonus.py" />
@@ -154,6 +133,14 @@
         <option value="$PROJECT_DIR$/prac_03/oddname2.py" />
         <option value="$PROJECT_DIR$/prac_03/temperature2.py" />
         <option value="$PROJECT_DIR$/prac_03/broken_score2.py" />
+        <option value="$PROJECT_DIR$/prac_04/warmup.py" />
+        <option value="$PROJECT_DIR$/prac_04/total_income.py" />
+        <option value="$PROJECT_DIR$/prac_04/intermediate_1.py" />
+        <option value="$PROJECT_DIR$/prac_04/intermediate_2.py" />
+        <option value="$PROJECT_DIR$/prac_04/intermediate_3.py" />
+        <option value="$PROJECT_DIR$/prac_04/lottery_ticket_generator.py" />
+        <option value="$PROJECT_DIR$/prac_01/broken_score.py" />
+        <option value="$PROJECT_DIR$/prac_05/state_names.py" />
       </list>
     </option>
   </component>
@@ -173,6 +160,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,11 +183,15 @@
               <item name="CP1404Practicals" type="462c0819:PsiDirectoryNode" />
               <item name="prac_03" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CP1404Practicals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CP1404Practicals" type="462c0819:PsiDirectoryNode" />
+              <item name="prac_04" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,8 +218,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.broken_score2">
-    <configuration name="broken_score2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.state_names">
+    <configuration name="broken_score" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CP1404Practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -235,12 +227,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_03/broken_score2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_01/broken_score.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,7 +241,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="capitalist_conrad2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="intermediate_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CP1404Practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,12 +249,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_03/capitalist_conrad2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_04/intermediate_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,7 +263,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="oddname2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="intermediate_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CP1404Practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -279,12 +271,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_03/oddname2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_04/intermediate_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,7 +285,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="password_checker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lottery_ticket_generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CP1404Practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -301,12 +293,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_02/password_checker.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_04/lottery_ticket_generator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -315,7 +307,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="temperature2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="state_names" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CP1404Practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -323,12 +315,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_03/temperature2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_05/state_names.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -338,19 +330,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.password_checker" />
-      <item itemvalue="Python.capitalist_conrad2" />
-      <item itemvalue="Python.oddname2" />
-      <item itemvalue="Python.temperature2" />
-      <item itemvalue="Python.broken_score2" />
+      <item itemvalue="Python.intermediate_2" />
+      <item itemvalue="Python.intermediate_3" />
+      <item itemvalue="Python.lottery_ticket_generator" />
+      <item itemvalue="Python.broken_score" />
+      <item itemvalue="Python.state_names" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.broken_score2" />
-        <item itemvalue="Python.temperature2" />
-        <item itemvalue="Python.oddname2" />
-        <item itemvalue="Python.capitalist_conrad2" />
-        <item itemvalue="Python.password_checker" />
+        <item itemvalue="Python.state_names" />
+        <item itemvalue="Python.broken_score" />
+        <item itemvalue="Python.lottery_ticket_generator" />
+        <item itemvalue="Python.intermediate_3" />
+        <item itemvalue="Python.intermediate_2" />
       </list>
     </recent_temporary>
   </component>
@@ -365,18 +357,61 @@
       <option name="presentableId" value="Default" />
       <updated>1541812068949</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update several files from previous pracs.">
+      <created>1542685539962</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542685539962</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Did the walk through exercise.">
+      <created>1543283159094</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543283159094</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Did intermediate exercise 1.">
+      <created>1543284336981</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1543284336981</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Did intermediate exercise 2.">
+      <created>1543284738085</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1543284738085</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Did intermediate exercise 3.">
+      <created>1543286872201</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1543286872201</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Did Do-from-scratch exercise.">
+      <created>1543291079210</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1543291079210</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12899786" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1337953" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32212582" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.32104123" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -384,7 +419,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.32104123" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32968238" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3264642" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -399,6 +434,15 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update several files from previous pracs." />
+    <MESSAGE value="Did the walk through exercise." />
+    <MESSAGE value="Did intermediate exercise 1." />
+    <MESSAGE value="Did intermediate exercise 2." />
+    <MESSAGE value="Did intermediate exercise 3." />
+    <MESSAGE value="Did Do-from-scratch exercise." />
+    <option name="LAST_COMMIT_MESSAGE" value="Did Do-from-scratch exercise." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -510,48 +554,81 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/prac_03/capitalist_conrad2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/prac_03/oddname2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <marker date="1542684610175" expanded="true" signature="11:12" ph="..." />
-            <marker date="1542684610175" expanded="true" signature="31:36" ph="..." />
-            <marker date="1542684610175" expanded="true" signature="341:350" ph="..." />
-            <marker date="1542684610175" expanded="true" signature="341:413" ph="..." />
-          </folding>
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_03/temperature2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac_01/broken_score.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac_03/capitalist_conrad2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_03/broken_score2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
-          <folding>
-            <marker date="1542685485045" expanded="true" signature="107:109" ph="..." />
-            <marker date="1542685485045" expanded="true" signature="107:130" ph="..." />
-          </folding>
+        <state relative-caret-position="575">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_04/warmup.py" />
+    <entry file="file://$PROJECT_DIR$/prac_04/total_income.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_04/intermediate_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_04/intermediate_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_04/intermediate_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="44" column="78" selection-start-line="44" selection-start-column="78" selection-end-line="44" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_04/lottery_ticket_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_01/broken_score.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_05/state_names.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
         </state>
       </provider>
     </entry>
