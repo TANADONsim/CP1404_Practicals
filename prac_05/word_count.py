@@ -8,4 +8,4 @@ for word in word_list:
         word_dict[word] = 1
 
 for word in sorted(word_dict, key=str.lower):
-    print(str(word) + ": " + str(word_dict[word]))
+    print(str(word) + ": " + str(word_dict[word])) 
