@@ -1,5 +1,6 @@
 word_list = input("Text: ").split()
 word_dict = {}
+# another way is to sort the words in alphabetical order before the loop
 for word in word_list:
     if word in word_dict:
         word_dict[word] += 1
