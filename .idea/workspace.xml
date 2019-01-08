@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37e1cc07-6104-4bf6-b9a5-69b951a073a4" name="Default Changelist" comment="Adding prac_09 folder">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="37e1cc07-6104-4bf6-b9a5-69b951a073a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/prac_10/recursion.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,21 +63,21 @@
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.56" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="kv" value="4" />
-          <entry key="py" value="52" />
+          <entry key="py" value="53" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="52" />
+          <entry key="Python" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -107,7 +107,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Assignment_2/a2--WongZiMingRyan/songlist.py">
+        <entry file="file://$PROJECT_DIR$/prac_10/recursion.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -171,6 +171,7 @@
         <option value="$PROJECT_DIR$/prac_08/silver_service_taxi_test.py" />
         <option value="$PROJECT_DIR$/prac_08/silver_service_taxi.py" />
         <option value="$PROJECT_DIR$/os_demos.py" />
+        <option value="$PROJECT_DIR$/prac_10/recursion.py" />
       </list>
     </option>
   </component>
@@ -181,7 +182,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
+    <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -190,6 +191,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,38 +202,12 @@
             <path>
               <item name="CP1404Practicals" type="b2602c69:ProjectViewProjectNode" />
               <item name="CP1404Practicals" type="462c0819:PsiDirectoryNode" />
-              <item name="prac_01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CP1404Practicals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CP1404Practicals" type="462c0819:PsiDirectoryNode" />
-              <item name="prac_02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CP1404Practicals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CP1404Practicals" type="462c0819:PsiDirectoryNode" />
               <item name="prac_03" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CP1404Practicals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CP1404Practicals" type="462c0819:PsiDirectoryNode" />
-              <item name="prac_04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CP1404Practicals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CP1404Practicals" type="462c0819:PsiDirectoryNode" />
-              <item name="prac_06" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CP1404Practicals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CP1404Practicals" type="462c0819:PsiDirectoryNode" />
-              <item name="prac_09" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -563,14 +539,21 @@
       <option name="project" value="LOCAL" />
       <updated>1546680400719</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Adding prac_09 folder">
+      <created>1546911165852</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1546911165852</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.1433902" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29431072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -639,7 +622,8 @@
     <MESSAGE value="Did Reliability Portion of Intermediate Exercise" />
     <MESSAGE value="Did Silver Service portion of Intermediate Exercise" />
     <MESSAGE value="Did Walkthrough Exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Did Walkthrough Exercise" />
+    <MESSAGE value="Adding prac_09 folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding prac_09 folder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -653,13 +637,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prac_01/shop_calculator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prac_01/online_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -941,16 +918,6 @@
     <entry file="file://$PROJECT_DIR$/../Assignment_2/a2--TANADONsim-master/main.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac_09/os_demos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-          <folding>
-            <element signature="e#68#81#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Assignment_2/a2--TANADONsim-master/song.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -969,6 +936,19 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../Assignment_2/a2--WongZiMingRyan/songlist.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_09/os_demos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#68#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_10/recursion.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
